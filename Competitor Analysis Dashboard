@@ -1,0 +1,23 @@
+Welcome to the Competitor Analysis Dashboard.
+This project presents a comprehensive visualization dashboard within Insights360, designed to deliver crucial insights and patterns to business professionals for informed decision-making and strategic planning.
+
+Features:
+Sales Analysis:
+-Conducts a comparative analysis between two emerging e-commerce platforms, 'Souled Store' and 'Snitch,' to discern sales trends over time, top-selling items and categories, revenue indicators, and key influencers.
+-Utilizes gauge charts and cards to compute Total Sales and Target Sales.
+-Analyzes Total Sales across peak months via heat maps.
+-Implements slicers for easy navigation through product categories and months.
+-Identifies peak monthly sales and maximum discounted products across both platforms.
+
+
+Regional Analysis:
+-Performs an in-depth regional sales analysis to pinpoint the most engaging regions across both platforms.
+-Employs slicers to navigate through 'State' with top sales.
+-Identifies regions with Max and Min Sales using doughnut and line charts.
+
+Usage:
+To explore the insights and data visualization provided by this dashboard, simply navigate to the respective sections outlined above. Utilize the interactive features such as slicers, charts, and graphs to delve deeper into the analysis.
+
+Thank you for your interest in the Competitor Analysis Dashboard. We hope it serves as a valuable tool for guiding your business decisions and strategies. Should you have any inquiries or feedback, please feel free to reach out.
+
+Happy analyzing!
